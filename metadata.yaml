@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37811'
     url: http://www.gutenberg.org/2009/agents/37811
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35662#The-Slavery-QuestionHouse-of-Representatives-April-27-1860
 gutenberg_issued: '2011-03-23'
 gutenberg_type: Text
 identifiers:
